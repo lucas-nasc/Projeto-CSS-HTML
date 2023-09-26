@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(227, 227, 227);
+    width: 1550px;
+    margin: auto;
+}
+
+.img-polemica{
+
+    width: 420px ;
+    height: 250px;
+}
+
+#menu li{
+    display: inline;
+    padding: 10px;
+    font-size: 22px;
+}
+#menu li a{
+    color: black;
+}
+
+#menu li a:hover{
+    color: white;
+}
+

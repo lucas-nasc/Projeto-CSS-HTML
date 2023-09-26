@@ -1,0 +1,56 @@
+
+
+#menu li{
+    display: inline;
+    padding: 10px;
+    font-size: 22px;
+}
+#menu li a{
+    color: black;
+}
+
+#menu li a:hover{
+    color: white;
+}
+
+.img-kevin{
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    border-radius: 7%;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    text-align: center;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(227, 227, 227);
+    width: 1550px;
+    margin: auto;
+}
+
+#disco-video{
+    display: flex;
+    justify-content: space-around;
+    margin:50px; 
+}
+
+.img-rede{
+    height: 50px;
+    width: 50px;
+}
+
+#rodape{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#album{
+    font-weight: bold;
+}
+
